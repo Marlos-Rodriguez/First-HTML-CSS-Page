@@ -61,6 +61,7 @@ html, body
 
 .main-header
 {
+    width: auto;
     background-image: url("Images/Album\ 1.png");
     background-color: rgba(0, 0, 0, .6);
     background-blend-mode: multiply;
