@@ -49,13 +49,14 @@ html, body
 .main-nav
 {
     text-align: center;
-    font-size: 1.1em;
+    font-size: .8em;
     font-weight: lighter;
     border-bottom: 1px rgba(255, 255, 255, .3);
 }
 
 .main-nav li
 {
+    min-width: 50px;
     padding: 0 5%;
 }
 
